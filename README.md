@@ -6,3 +6,14 @@ so , this a a random piece of me!!
          I'm a little weirdo when it comes to coding , tech & exploring ohere I meant exploring the world ,
          I literally love going offline walking through green natue where the watefall sounds just keep resonating!!😁
 So these are few stuffs you might find scrolling down (If you are not able to scroll down then you're too early ;) so just explore what's in there now , maybe check in I'm Sure you might find new stuffs in there)
+Also, If you find anythying not in place in this repo just remember I'm a Beginner!!😅
+
+so few projects I recently explored!!
+
+----TIC TAC TOE----
+         -> i was bored nd i literally wanted to play , i know i could hv done it with pen and paper but taking a scenic route is my style!
+         -> it actually turned out good but fun fact, I didnt expect this to be too short honestly!!
+         -> and in short, its a time spent well!!
+
+----DIGITAL CLOCK----
+         
