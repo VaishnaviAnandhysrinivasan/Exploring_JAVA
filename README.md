@@ -16,10 +16,14 @@ so few projects I recently explored!!
          -> and in short, its a time spent well!!
 
 ----DIGITAL CLOCK----
-         -> Bored again , nd all i wanted was to see time pass
+         -> Bored again , nd all i wanted was to see the time pass
          -> usualy the moblie phone nd desktop screen show time in HH:MM format nd that was totally not enough for me (I was literally bored to an extent that every minute felt like a decade) so I decided I'll make one in the HH:MM:SS format
          -> yes!! I Know this is a common project that every one in this field do this project in their early career years but a backstory like this new right?!?!
          -> Just have a look, and have a great time!!
 
 ----CALCULATOR----
-         ->
+         -> ok, this Calculator doesn't have a great story unfortunately 🥴, but making it was a full big bag of fun
+         -> making a calc wasn't a huge deal at all added that this is a basic Calc
+         ->the true challenge was in bringing out the perfect layout nd yep that actually taught me more than what theory could do, by this i just had a super clesr view of the swing layouts nd especially the grid layout and the grid bag layout 
+         -> and honestly working with grid bag layout for a first timer wasn't easy to be honest , the application went messier each time that it actually was but in the end it wass all good
+         -> then to give it a little spice i had to play with colours nd this is how it turned out and for me it's pretty awesome!!
