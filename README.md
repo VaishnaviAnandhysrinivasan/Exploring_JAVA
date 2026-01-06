@@ -27,3 +27,7 @@ so few projects I recently explored!!
          ->the true challenge was in bringing out the perfect layout nd yep that actually taught me more than what theory could do, by this i just had a super clesr view of the swing layouts nd especially the grid layout and the grid bag layout 
          -> and honestly working with grid bag layout for a first timer wasn't easy to be honest , the application went messier each time that it actually was but in the end it wass all good
          -> then to give it a little spice i had to play with colours nd this is how it turned out and for me it's pretty awesome!!
+
+Okayy now speaking about those projects I tried but that didn't work the way I wanted it to work, so this one called "SimpPaint" is basically a replica of paint application especially suitable for free hand sketchs but its main component is the MouseMotionListener and I messed up at that part yepp so the issue over here was, I was actually able to draw but the fact over here is that the sketch & the mouse pointer had a bit lag , and this was not something I expected so I worked on it to bring out the better version!!
+
+----SIMPPAINT THEBETTERVERSION----
