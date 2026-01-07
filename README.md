@@ -31,3 +31,9 @@ so few projects I recently explored!!
 Okayy now speaking about those projects I tried but that didn't work the way I wanted it to work, so this one called "SimpPaint" is basically a replica of paint application especially suitable for free hand sketchs but its main component is the MouseMotionListener and I messed up at that part yepp so the issue over here was, I was actually able to draw but the fact over here is that the sketch & the mouse pointer had a bit lag , and this was not something I expected so I worked on it to bring out the better version!!
 
 ----SIMPPAINT THEBETTERVERSION----
+         -> yea!! it worked the way I wanted it to so that's great!!
+         -> and intresting part I gave access to more then 8 colours and yes thats an mini celeb factor with regard to this proj coz it actoally consumed a lot time that i expected
+
+----ATTENDENCE PERCENTAGE CALCULATOR----
+PS: Yes!! It's for all those students out there ( each and every student really needs this and this was never a secret fr);
+         -> 
