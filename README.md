@@ -36,4 +36,4 @@ Okayy now speaking about those projects I tried but that didn't work the way I w
 
 ----ATTENDENCE PERCENTAGE CALCULATOR----
 PS: Yes!! It's for all those students out there ( each and every student really needs this and this was never a secret fr);
-         -> 
+         -> for the very first time while coding I  addressed the topic that is really in nee , yet there are many like this out in the playstore a personalised one will be much much better imo :)
