@@ -2,7 +2,7 @@
 Hii, I'm glad that you found this, so a short gist of this repo goes like this, I'm a tech enthusiast I literally love to code yeah I know that's not usual but somehow this is the place where I can spend hours with looking the clock ticking, so in my leisure time I explore and build a variety of random stuffs (PS: peak randomness - IDK Either until its fully built) ;
 
 so , this a a random piece of me!! 
-         I'll basically start to code not even without an topic later on the go i'll choose a topic then some or the other way I just keep changing tracks and give a end product that's actually satisfies, I try try and try to get the best possible code I could ever do!!
+         I'll basically start to code not even without an topic later on the go I'll choose a topic then some or the other way I just keep changing tracks and give a end product that's actually satisfies, I try try and try to get the best possible code I could ever do!!
          I'm a little weirdo when it comes to coding , tech & exploring ohere I meant exploring the world ,
          I literally love going offline walking through green natue where the watefall sounds just keep resonating!!😁
 So these are few stuffs you might find scrolling down (If you are not able to scroll down then you're too early ;) so just explore what's in there now , maybe check in I'm Sure you might find new stuffs in there)
@@ -36,4 +36,4 @@ Okayy now speaking about those projects I tried but that didn't work the way I w
 
 ----ATTENDENCE PERCENTAGE CALCULATOR----
 PS: Yes!! It's for all those students out there ( each and every student really needs this and this was never a secret fr);
-         -> for the very first time while coding I  addressed the topic that is really in nee , yet there are many like this out in the playstore a personalised one will be much much better IMO :)
+         -> for the very first time while coding I  addressed the topic that is really in need , yet there are many like this out in the playstore a personalised one will be much much better IMO :)
