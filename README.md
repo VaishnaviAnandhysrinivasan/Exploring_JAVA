@@ -6,7 +6,7 @@ so , this a a random piece of me!!
          I'm a little weirdo when it comes to coding , tech & exploring ohere I meant exploring the world ,
          I literally love going offline walking through green natue where the watefall sounds just keep resonating!!😁
 So these are few stuffs you might find scrolling down (If you are not able to scroll down then you're too early ;) so just explore what's in there now , maybe check in I'm Sure you might find new stuffs in there)
-Also, If you find anythying not in place in this repo just remember I'm a Beginner!!😅
+Also, If you find anythying not in place in this repo just remember I'm a Beginner and you are too early!!😅
 
 so few projects I recently explored!!
 
