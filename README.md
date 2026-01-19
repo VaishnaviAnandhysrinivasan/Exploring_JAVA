@@ -37,5 +37,6 @@ Okayy now speaking about those projects I tried but that didn't work the way I w
 ----ATTENDENCE PERCENTAGE CALCULATOR----
 PS: Yes!! It's for all those students out there ( each and every student really needs this and this was never a secret fr);
          -> for the very first time while coding I  addressed the topic that is really in need , yet there are many like this out in the playstore a personalised one will be much much better IMO :)
+         -> the JProgress bar was the main reason behind this, Yess!! it's true I really wanted to try out that JProgress Bar and this is the only % I keep thinking of 😊
 Also, From now you can find not only the stories behind but also the actual product itself!!
 Adding my projects to the repo and if you want to try it or modify it then just pull it and let me know how did it make you feel!!!!
