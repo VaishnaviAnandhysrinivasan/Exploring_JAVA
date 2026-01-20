@@ -23,7 +23,7 @@ so few projects I recently explored!!
 
 ----CALCULATOR----
          -> ok, this Calculator doesn't have a great story unfortunately 🥴, but making it was a full big bag of fun
-         -> making a calc wasn't a huge deal at all added that this is a basic Calc
+         -> making a calc wasn't a huge deal at all added that this is a basic Calc (too basic honestly)
          ->the true challenge was in bringing out the perfect layout nd yep that actually taught me more than what theory could do, by this i just had a super clesr view of the swing layouts nd especially the grid layout and the grid bag layout 
          -> and honestly working with grid bag layout for a first timer wasn't easy to be honest , the application went messier each time that it actually was but in the end it wass all good
          -> then to give it a little spice i had to play with colours nd this is how it turned out and for me it's pretty awesome!!
