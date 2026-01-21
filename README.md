@@ -32,7 +32,7 @@ Okayy now speaking about those projects I tried but that didn't work the way I w
 
 ----SIMPPAINT THEBETTERVERSION----
          -> yea!! it worked the way I wanted it to so that's great!!
-         -> and intresting part I gave access to more then 8 colours and yes thats an mini celeb factor with regard to this proj coz it actoally consumed a lot time that i expected
+         -> and intresting part I gave access to more then 8 colours and yes thats an mini celeb factor with regard to this proj coz it actually consumed a lot time that i expected
 
 ----ATTENDENCE PERCENTAGE CALCULATOR----
 PS: Yes!! It's for all those students out there ( each and every student really needs this and this was never a secret fr);
