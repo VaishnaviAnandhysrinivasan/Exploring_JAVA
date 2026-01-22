@@ -19,7 +19,7 @@ so few projects I recently explored!!
          -> Bored again , nd all i wanted was to see the time pass
          -> usualy the moblie phone nd desktop screen show time in HH:MM format nd that was totally not enough for me (I was literally bored to an extent that every minute felt like a decade) so I decided I'll make one in the HH:MM:SS format
          -> yes!! I Know this is a common project that every one in this field do this project in their early career years but a backstory like this new right?!?!
-         -> Just have a look, and have a great time!!
+         -> Just have a look, and have a great time😏!!
 
 ----CALCULATOR----
          -> ok, this Calculator doesn't have a great story unfortunately 🥴, but making it was a full big bag of fun
